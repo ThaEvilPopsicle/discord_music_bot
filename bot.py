@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO)
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
-GUILD = os.getenv('DISCORD_GUILD_MYSELF')
+GUILD = os.getenv('DISCORD_GUILD')
 
 activity = disnake.Activity(name='Stardew Valley!', type=disnake.ActivityType.playing)
 bot = commands.InteractionBot(intents=disnake.Intents.all(),
