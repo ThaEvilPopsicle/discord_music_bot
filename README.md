@@ -1,4 +1,4 @@
-[![Python >=3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-teal.svg"></a>
 # Discord Music Bot
 A program that will allow you to add playing music from Youtube to your existing Discord bot. 
 
