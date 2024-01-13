@@ -7,6 +7,8 @@ To import into your existing Discord bot, you will need to import it as a cog. Y
 ## Installing
 **Python 3.8 or higher is required**
 
-To Install, 
+There are two ways you can install:
+  1. Clone the repository add your Discord token and guild into your environment as DISCORD_TOKEN and DISCORD_GUILD and run bot.py.
+  2. Download the MusicBox folder and import it into your existing bot. 
 
 
